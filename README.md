@@ -29,4 +29,4 @@ BSc Psychology (Hons) with specialisation in Clinical. As my first Python projec
 - Computing descriptive statistics
 - Running statistical tests via scipy.stats
 - Visualising reaction time with matplotlib and seaborn
-- - Structuring and documenting my first project on Google Collab and Github.
+- Structuring and documenting my first project on Google Collab and Github.
